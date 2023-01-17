@@ -1,0 +1,18 @@
+Hi${fNAME}${LNAME},<br/>
+<br/>
+
+Welcome to pradhan family, your registration ia almost completed.</br>
+</br>
+
+please unlock your account using below details.</br>
+
+Temporary pwd:${TEMP_PWD}</br>
+
+
+<a href="http://localhost:4200/unlock?$email=${EMAIL}">click here to unlock</a> </br>
+
+
+</br>
+
+Thanks , </br>
+PRAKASH </br>
